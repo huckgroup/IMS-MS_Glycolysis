@@ -1,0 +1,136 @@
+[[sections]]
+length = 1800
+[sections.syringe_parameters]
+F = {reactor_concentration = 4.5}
+ATP = {reactor_concentration = 1.5}
+ADP = {reactor_concentration = 1.5}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 5200
+[sections.syringe_parameters]
+F = {reactor_concentration = 4.5}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 3}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 1.5}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 0.75}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 4.5}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 3}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 1.5}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 0.75}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1.5}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 4.5}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 3}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 1.5}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 0.75}
+ATP = {reactor_concentration = 2.25}
+ADP = {reactor_concentration = 0.75}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 4.5}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 3}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 1.5}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1}
+
+[[sections]]
+length = 3600
+[sections.syringe_parameters]
+F = {reactor_concentration = 0.75}
+ATP = {reactor_concentration = 0.75}
+ADP = {reactor_concentration = 2.25}
+NAD = {reactor_concentration = 1}
+
